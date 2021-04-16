@@ -15,8 +15,8 @@
 ## Используемые библиотеки
 - pandas
 - numpy
+- matplotlib.pyplot
 - datetime
+- scipy
 - seaborn
 - sklearn
-- scipy
-- matplotlib.pyplot
